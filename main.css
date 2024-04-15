@@ -1,5 +1,5 @@
 body{
-    background:#0F2027;
+    background:#bdced6;
     background:-webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027) ;
     background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
 }
@@ -35,10 +35,11 @@ body{
 
 button{
     border:none;
-    background-color: cadetblue;
+    background-color: rgb(128, 179, 237);
     color:#fff;
     padding:10px 20px;
     font-size:16px;
+    border-radius: 5px;
     margin:2px;
     cursor: pointer;
 }
